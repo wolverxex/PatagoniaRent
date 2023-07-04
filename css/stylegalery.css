@@ -1,0 +1,14 @@
+
+#galery-information{
+    grid-template-rows: 100%;
+    grid-template-columns: 50% auto;
+    background-color: black;
+}
+
+#galery-information div{
+    width: 100%;
+    height: 50vh;
+    background-color: red;
+}
+
+
